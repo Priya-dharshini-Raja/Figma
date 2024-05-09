@@ -74,6 +74,10 @@ PAGE-4:
 ```
 
 ## OUTPUT:
+![event 1](https://github.com/Priya-dharshini-Raja/Figma/assets/148514803/779dcdf6-5747-40aa-99fb-1437d881dea8)
+![event 2](https://github.com/Priya-dharshini-Raja/Figma/assets/148514803/fce18b11-d438-4fb0-b545-2144764c20ca)
+![event 3](https://github.com/Priya-dharshini-Raja/Figma/assets/148514803/a0b0015f-9175-4625-bd56-41ac62a92a78)
+
 
 
 
